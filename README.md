@@ -5,7 +5,7 @@
 
 <h2>Website Preview</h2>
 
-![Metalink Desktop Demo](./Finishing/Montreal.png)
+![Metalink Desktop Demo](./Finshing/Montreal.png)
 
 ## Clone Website
 
